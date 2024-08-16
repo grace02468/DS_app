@@ -21,7 +21,7 @@
 
 點選導覽列左側的書本圖示則會進入到學習頁面，在此有插入排序、計數排序、快速排序、合併排序等四種排序讓使用者學習。點選導覽列右側會進入測驗頁面，共設計五個關卡讓使用者挑戰。
 
-<img width="300" alt="個人頁面" src="https://github.com/grace02468/DS_app/blob/main/img/4-3-a.png"> <img width="300" alt="學習頁面" src="https://github.com/grace02468/DS_app/blob/main/img/4-3-b.png"> <img width="300" alt="測驗頁面" src="https://github.com/grace02468/DS_app/blob/main/img/4-3-c.png">
+<img width="200" alt="個人頁面" src="https://github.com/grace02468/DS_app/blob/main/img/4-3-a.png"> <img width="200" alt="學習頁面" src="https://github.com/grace02468/DS_app/blob/main/img/4-3-b.png"> <img width="200" alt="測驗頁面" src="https://github.com/grace02468/DS_app/blob/main/img/4-3-c.png">
 
 在學習的部分有模擬、練習、相關程式碼、相關影片可以供使用，使用者在學習頁面點擊插入排序後，會預設先進入插入排序的模擬頁面，並且可以點選左上角，或是透過向右滑動的手勢開啟側邊選單，向左滑動則是將選單收起，選單讓使用者方便在多種學習方式之間做切換，也可以回到排序選擇頁面選擇另一種排序做學習。
 
