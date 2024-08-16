@@ -27,7 +27,7 @@
 
 而模擬頁面還有一項輔助功能，點選右上角的問號圖示，則可以跳至模擬頁面的操作說明，讓使用者能清楚明瞭的知道操作方式。
 
-<img width="300" alt="學習初始介面" src="https://github.com/grace02468/DS_app/blob/main/img/4-4-a.png"> <img width="300" alt="學習選單" src="https://github.com/grace02468/DS_app/blob/main/img/4-4-b.png "> <img width="300" alt="模擬頁面操作說明" src="https://github.com/grace02468/DS_app/blob/main/img/4-4-c.png">
+<img width="250" alt="學習初始介面" src="https://github.com/grace02468/DS_app/blob/main/img/4-4-a.png"> <img width="250" alt="學習選單" src="https://github.com/grace02468/DS_app/blob/main/img/4-4-b.png "> <img width="250" alt="模擬頁面操作說明" src="https://github.com/grace02468/DS_app/blob/main/img/4-4-c.png">
 
 接下來將分別展示四種排序分別的模擬頁面，首先為插入排序模擬介面，以此來做主要功能上的說明。
 
@@ -35,19 +35,19 @@
 
 而功能列最右邊的按鈕則可以切換到虛擬碼頁面，該頁面將會同步展示陣列的變化，和該步驟對應的虛擬碼，最後，若使用者想更改陣列數值，重新進行模擬，則可按下「重置」按鈕，清除所有正在排序的數值、說明、螢光筆標記。
 
-<img width="300" alt="插入排序-初始頁面" src="https://github.com/grace02468/DS_app/blob/main/img/4-5-a.png"> <img width="300" alt="插入排序-步驟說明" src="https://github.com/grace02468/DS_app/blob/main/img/4-5-b.png"> <img width="300" alt="插入排序-虛擬碼" src="https://github.com/grace02468/DS_app/blob/main/img/4-5-c.png">
+<img width="250" alt="插入排序-初始頁面" src="https://github.com/grace02468/DS_app/blob/main/img/4-5-a.png"> <img width="250" alt="插入排序-步驟說明" src="https://github.com/grace02468/DS_app/blob/main/img/4-5-b.png"> <img width="250" alt="插入排序-虛擬碼" src="https://github.com/grace02468/DS_app/blob/main/img/4-5-c.png">
 
 下圖為計數排序的模擬介面展示，功能上皆與其他排序相同，差別在於排序步驟的展示上，由於在計數排序中不只一個陣列在進行運作，因此在排序過程中，畫面中間會多出另外兩個陣列，並分別顯示其數值變化。
 
-<img width="300" alt="計數排序-初始頁面" src="https://github.com/grace02468/DS_app/blob/main/img/4-6-a.png"> <img width="300" alt="計數排序-步驟說明" src="https://github.com/grace02468/DS_app/blob/main/img/4-6-b.png"> <img width="300" alt="計數排序-虛擬碼" src="https://github.com/grace02468/DS_app/blob/main/img/4-6--c.png">
+<img width="250" alt="計數排序-初始頁面" src="https://github.com/grace02468/DS_app/blob/main/img/4-6-a.png"> <img width="250" alt="計數排序-步驟說明" src="https://github.com/grace02468/DS_app/blob/main/img/4-6-b.png"> <img width="250" alt="計數排序-虛擬碼" src="https://github.com/grace02468/DS_app/blob/main/img/4-6--c.png">
 
 合併排序模擬介面如下圖所示，而與其他排序法不同之處在於合併排序特別需要用視覺化的圖形呈現，才能較容易理解，因此在模擬畫面能看合併排序中特有的分割、合併過程。
 
-<img width="300" alt="合併排序-初始頁面" src="https://github.com/grace02468/DS_app/blob/main/img/4-7-a.png"> <img width="300" alt="合併排序-步驟說明" src="https://github.com/grace02468/DS_app/blob/main/img/4-7-b.png"> <img width="300" alt="合併排序-虛擬碼" src="https://github.com/grace02468/DS_app/blob/main/img/4-7-c.png">
+<img width="250" alt="合併排序-初始頁面" src="https://github.com/grace02468/DS_app/blob/main/img/4-7-a.png"> <img width="250" alt="合併排序-步驟說明" src="https://github.com/grace02468/DS_app/blob/main/img/4-7-b.png"> <img width="250" alt="合併排序-虛擬碼" src="https://github.com/grace02468/DS_app/blob/main/img/4-7-c.png">
 
 下圖為快速排序的模擬介面展示，功能皆與其他排序相同，並且因為各個排序的原理皆不同，因此展示出來監測的變數也不太一樣(快速排序監測i、j、l、r)。
 
-<img width="300" alt="快速排序-初始頁面" src="https://github.com/grace02468/DS_app/blob/main/img/4-8-a.png"> <img width="300" alt="快速排序-步驟說明" src="https://github.com/grace02468/DS_app/blob/main/img/4-8-b.png"> <img width="300" alt="快速排序-虛擬碼" src="https://github.com/grace02468/DS_app/blob/main/img/4-8-c.png">
+<img width="250" alt="快速排序-初始頁面" src="https://github.com/grace02468/DS_app/blob/main/img/4-8-a.png"> <img width="250" alt="快速排序-步驟說明" src="https://github.com/grace02468/DS_app/blob/main/img/4-8-b.png"> <img width="250" alt="快速排序-虛擬碼" src="https://github.com/grace02468/DS_app/blob/main/img/4-8-c.png">
 
 在學習的部分，還有「練習」供使用者即時檢驗學習成果，在側邊選單中點擊練習，則會進入到該排序法的練習介面，題目以單選、四個選項的選擇題方式呈現，一個排序共有五題，作答完後按下「送出」鍵，即會得到作答結果，讓使用者知道答對幾題，並在完成後每題題目下方會顯示答案，幫助使用者回頭檢視自己答錯的題目。
 
